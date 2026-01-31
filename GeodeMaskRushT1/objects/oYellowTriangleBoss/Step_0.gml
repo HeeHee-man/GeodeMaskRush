@@ -1,0 +1,1 @@
+if(global.hp == 0) x -= ymovsp
